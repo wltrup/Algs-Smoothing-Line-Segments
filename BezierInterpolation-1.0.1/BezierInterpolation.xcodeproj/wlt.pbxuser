@@ -1,0 +1,151 @@
+// !$*UTF8*$!
+{
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeExecutable = 3BDE801E0C38BD2D008E5333 /* BezierInterpolation */;
+		activeSDKPreference = macosx10.5;
+		activeTarget = 8D1107260486CEB800E47090 /* BezierInterpolation */;
+		addToTargets = (
+			8D1107260486CEB800E47090 /* BezierInterpolation */,
+		);
+		codeSenseManager = 3BDE802E0C38BD4C008E5333 /* Code sense */;
+		executables = (
+			3BDE801E0C38BD2D008E5333 /* BezierInterpolation */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXErrorsWarningsDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXErrorsWarningsDataSource_LocationID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					300,
+					45.2085,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXErrorsWarningsDataSource_TypeID,
+					PBXErrorsWarningsDataSource_MessageID,
+					PBXErrorsWarningsDataSource_LocationID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					133,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 264111962;
+			PBXWorkspaceStateSaveDate = 264111962;
+		};
+		sourceControlManager = 3BDE802D0C38BD4C008E5333 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	3B120E200EAF596A008F12F7 /* BezierInterpolation.pdf */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{15, 4}, {631, 769}}";
+		};
+	};
+	3B463BF70FBD7666008F4FDB /* AppController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {565, 650}}";
+			sepNavSelRange = "{1233, 0}";
+			sepNavVisRange = "{347, 423}";
+		};
+	};
+	3B463BF80FBD7666008F4FDB /* AppController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {565, 976}}";
+			sepNavSelRange = "{1365, 61}";
+			sepNavVisRange = "{1192, 303}";
+		};
+	};
+	3B463C070FBD78B5008F4FDB /* QuadraticView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {565, 663}}";
+			sepNavSelRange = "{1221, 0}";
+			sepNavVisRange = "{307, 270}";
+		};
+	};
+	3B463C080FBD78B5008F4FDB /* QuadraticView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {572, 1794}}";
+			sepNavSelRange = "{3415, 0}";
+			sepNavVisRange = "{1804, 330}";
+		};
+	};
+	3B463C0D0FBD78C3008F4FDB /* CubicView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {572, 2735}}";
+			sepNavSelRange = "{2161, 44}";
+			sepNavVisRange = "{2036, 301}";
+		};
+	};
+	3B75CFCC0FBE0D9E0099ED0B /* BaseView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {565, 416}}";
+			sepNavSelRange = "{746, 0}";
+			sepNavVisRange = "{202, 331}";
+		};
+	};
+	3BDE801E0C38BD2D008E5333 /* BezierInterpolation */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = BezierInterpolation;
+		savedGlobals = {
+		};
+		sourceDirectories = (
+		);
+	};
+	3BDE802D0C38BD4C008E5333 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryName = "";
+		};
+		scmType = "";
+	};
+	3BDE802E0C38BD4C008E5333 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	8D1107260486CEB800E47090 /* BezierInterpolation */ = {
+		activeExec = 0;
+		executables = (
+			3BDE801E0C38BD2D008E5333 /* BezierInterpolation */,
+		);
+	};
+}
